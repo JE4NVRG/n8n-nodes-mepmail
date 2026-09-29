@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-mepmail.mepMail",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs-mepmail.je4ndev.com/api-reference"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/JE4NVRG/n8n-nodes-mepmail?tab=readme-ov-file"
+			}
+		]
+	}
+}
